@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-##
-You can use the [editor on GitHub](https://github.com/QN6826/Ihpm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My GitHub Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QN6826/Ihpm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+With the issuance of the national three-child policy, the field of female 
+reproduction has attracted more and more attention. To care for female reproductive 
+health and help the implementation of the government's three child policy, we have 
+proposed an intelligent home pregnancy preparation management method based on 
+multimodal data fusion, namely FAM (Fertility Awareness Method, FAM). This method 
+introduces big data, multimodal data fusion and image recognition technology. By 
+inputting multi-modal data such as menstrual cycle, basal body temperature, ovulation 
+test paper and cervical mucus of the pregnant woman, it can automatically predict the 
+ovulation day and menstrual period information of the pregnant woman. This improves 
+the pregnancy success rate of pregnant women, breaks the limitations of the traditional 
+method of finding the ovulation day through monomodal data, and facilitates the 
+monitoring of pregnant women at home. Finally, compared with the single-mode 
+method qualitatively and quantitatively, the preliminary experimental results show that 
+the accuracy of FAM method in identifying ovulation date is as high as 89%, and the 
+accuracy in predicting menstrual period is as high as 93%, and the pregnancy success 
+rate of pregnant women can be increased three times in at least nine cycles.
